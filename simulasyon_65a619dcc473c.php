@@ -1,0 +1,1 @@
+<?php $simulasyon_kimlik="65a619dcc473c"; include "simulasyon_yonet_icerik.php"; ?>
